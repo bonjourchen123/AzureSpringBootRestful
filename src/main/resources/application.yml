@@ -1,0 +1,6 @@
+azure:
+  activedirectory:
+    client-id:  # Azure Active Directory 應用程式識別碼
+    client-secret:  # Azure Active Directory 金鑰值
+    active-directory-groups: User # Azure Active Directory 授權的群組清單
+    session-stateless: true
